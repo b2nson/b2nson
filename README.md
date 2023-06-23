@@ -6,7 +6,7 @@ currently studying computer engineering because i like to coding and building th
 i like lifting weights too! 🔱
 bench: 225
 squat: 355
-deadlift: 405
+deadlift: 415
 
 working on... 💭
 - modded my 5 yr old rk61 keyboard
