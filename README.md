@@ -9,9 +9,9 @@ squat: 355
 deadlift: 415
 
 working on... 💭
-- modded my 5 yr old rk61 keyboard
+- new website
 - upgrading my pc
-- building a weight scale to calculate macros and calories
+- discord bot? 😕
 
 more things to come from me plz follow 😁
 
