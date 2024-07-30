@@ -15,7 +15,7 @@ working on... 💭
 
 more things to come from me plz follow 😁
 
-shoot me an email - n.benson361412@gmail.com or dm me on discord if you need anything @benson#8990
+shoot me an email! - b3n.nqu@gmail.com
 <!--
 **b2nson/b2nson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
