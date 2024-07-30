@@ -4,9 +4,9 @@ i go to university of the pacific for school 📚
 currently studying computer engineering because i like to coding and building things 🔧
 
 i like lifting weights too! 🔱
-bench: 225
+bench: 275
 squat: 355
-deadlift: 415
+deadlift: 425
 
 working on... 💭
 - new website
